@@ -1,0 +1,42 @@
+﻿= *MiniHome-Dashboard*
+
+== Idee
+
+* Ein Dashboard, dass eine Übersicht über die wichtigsten Informationen eines Hauses gibt. Es soll auf einen Blick erkennbar sein, ob alles in Ordnung ist oder ob es Handlungsbedarf gibt. 
+* Es gibt Einblick auf Statistiken der verschiedenen Sensoren(z.B. Temperatur, Luftfeuchtigkeit, Stromverbrauch, Wasserstand, Pflanzen feuchtigkeit, etc.)
+* Die einzelnen Sensoren mit deren Grafiken und Statistiken sollen frei und einfach konfigurierbar sein.
+* Das Dashboard soll nur Informationen anzeigen, und keine Steuerungsmöglichkeiten bieten, um Menschen mit Sicherheitsbedenken zu überzeugen.
+* Man soll einstellen können, ob man Push-Benachrichtigungen erhalten möchte, wenn zum Beispiel die Pflanzen zu trocken sind, oder die Luftfeuchtigkeit zu trocken ist und das Haus gelüftet werden sollte.
+
+== Neuigkeits-Status
+.Vorgedanke
+Es gibt schon vielzählige Lösungen für das Thema SmartHome mit IoT, aber keine, die sich auf das Anzeigen von Informationen spezialisiert hat. Die meisten Lösungen bieten auch Steuerungsmöglichkeiten, was für viele Menschen ein zu hohes Sicherheitsrisiko darstellt.
+
+.Vorteile
+Man könnte sein Haus viel besser organisieren um Energie, Wasser, etc. zu sparen und das Haus besser zu pflegen. Vor allem mit Kindern oder in einer WG ist es nicht immer einfach alle aufgaben im Haus zu organisieren. Mit einem Dashboard, dass alle Informationen auf einen Blick zeigt und auch noch Push-Benachrichtigungen sendet, wenn Handlungsbedarf besteht, könnte das Leben viel einfacher werden. 
+
+== Machbarkeit
+
+Mithilfe von fertigen Sensoren und Microcontroller, die per Wlan im Netzwerk sind, und einer Backend-API lassen sich die Daten sehr einfach sammeln und verarbeiten. Die Daten können dann in einer Datenbank gespeichert und von einer Web-App abgerufen und dargestellt werden.
+
+== Zielgruppe
+
+* Menschen, die sich für SmartHome interessieren, aber keine Steuerungsmöglichkeiten haben wollen.
+* Menschen, die ihr Haus besser organisieren und pflegen wollen.
+* Menschen, die sich für Statistiken, Daten oder Technik interessieren.
+
+== Informationen
+.Bezeichnung:
+* MiniHome-Dashboard
+
+.Auftraggeber:
+* Prof. Aitenbichler
+
+.Ergebnis:
+* Bis Ende des Schuljahres soll das Projekt abgeschlossen sein und ein funktionierendes Dashboard präsentiert werden, welches die vordefinierten Anforderungen erfüllen.
+* Eine Übersichtliche, benutzerfreundliche und ansprechende Web-App, die einfach zum Konfigurieren ist.
+
+.Ziel:
+* viele Installationen und eine hohe Zufriedenheit der Benutzer.
+* ein System, dass den Alltag erleichtert und das Haus besser pflegt.  
+
