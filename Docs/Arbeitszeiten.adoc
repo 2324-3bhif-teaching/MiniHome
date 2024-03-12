@@ -1,0 +1,7 @@
+﻿= Arbeitszeiten
+
+[cols="1,2,2,2",options="header"]
+|===
+| Date | Alex | Eliya | Batbold
+|12.03 | 8:15 - 12:45 | 12:00 - 13:45 | 10:30 - 12:45
+|===
