@@ -1,0 +1,2 @@
+# MiniHome
+SmartHome Dashboard
