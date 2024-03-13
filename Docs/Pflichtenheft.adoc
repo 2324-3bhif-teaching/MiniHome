@@ -1,5 +1,7 @@
 = Pflichtenheft
 
+ß
+
 === Ausgangslage
 Projektbezeichnung: MiniHome \n herererrrr
 Auftraggeber: HTBLA Leonding
