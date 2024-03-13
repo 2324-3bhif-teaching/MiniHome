@@ -91,16 +91,16 @@ Das Projekt ist abgeschlossen, wenn alle Meilensteine erreicht sind und die Abna
 * Datum: 13.03.2024
 * Unterschrift: 
 +
-image::signatures/alexander_resch.png[]
+image::signatures/alexander_resch.png[170,170]
 
 .Elija Lambourne-Grüneis:
 * Datum: 13.03.2025
 * Unterschrift:
 +
-image::signatures/Elija_Lambourne-Grüneis.png[]
+image::signatures/Elija_Lambourne-Grüneis.png[170,170]
 
 .Batbold Zolmon.Bat:
 * Datum: dd.MM.YYYY
 * Unterschrift:
 +
-image::signatures/Batbold_Zolmon.Bat.png[]
+image::signatures/Batbold_Zolmon.Bat.png[170,170]
