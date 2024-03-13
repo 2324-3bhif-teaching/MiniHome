@@ -1,7 +1,7 @@
 = Pflichtenheft
 
 === Ausgangslage
-Projektbezeichnung: MiniHome \n herererrrr
+Projektbezeichnung: MiniHome +
 Auftraggeber: HTBLA Leonding
 
 == Zielsetzung
