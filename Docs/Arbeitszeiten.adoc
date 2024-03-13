@@ -3,6 +3,6 @@
 [cols="1,2,4,2,4,2,4",options="header"]
 |===
 | Date | Alex | Tätigkeit | Elija | Tätigkeit | Batbold| Tätigkeit
-|12.03 | 8:15 - 12:45 || 12:00 - 13:45 || 10:30 - 12:45| Mock-up
-|13.03 | 6:54 - 7:14 |||| |
+|12.03 | 8:15 - 12:45 || 12:00 - 13:45 |Pflichtenheft & Recherché| 10:30 - 12:45| Mock-up
+|13.03 | 6:54 - 7:14 ||11:00 - 13:35|Pflichtenheft & Recherché| |
 |===
