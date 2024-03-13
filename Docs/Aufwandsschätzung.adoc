@@ -1,0 +1,11 @@
+= Aufwandsschätzung (Expertenschätzung)
+
+== Faktoren
+* Unproduktivität
+* Testphase
+* Krankheit
+
+Der geschätzte Aufwand liegt deutlich über 15 Wochen, unter normalen Umständen. Unter der Annahme, dass alle Mitglieder ihre Freizeit dazu nutzen das Projekt weiter zu entwickeln (abgezogen Ausarbeitung anderer Projekte), sollten sich jedoch c.a 90% des Gesamtprojekts zeitlich ausgehen. +
+Der gezielt ausfallfähige Teil ist die mögliche Zentralisierung der selbstständigen Einheiten auf einen Server (oder dessen Shards). Sollte diese nicht fertiggestellt werden, hat es keinen Effekt auf die Funktionsweise des gesamten.
+
+Die Faktoren beschreiben Einflussgrößen, welcher den Zeitplan besonders beeinträchtigen könnten und welche zu vermeiden sind.
