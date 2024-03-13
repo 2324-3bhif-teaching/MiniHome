@@ -17,7 +17,7 @@ Oberflächlich betrachtet soll das Endergebnis ein Dashboard sein, in welchem ma
 Ziel des Projekts soll sein z.B. das Stromsparen spaßig und wettbewerblich zu machen. Auch sollen Abhängigkeiten von Dritten beseitigt werden können, in dem MiniHome, ähnlich wie bei Docker, als selbstständige Einheit exportiert werden kann.
 
 == Projektbeschreibung
-
+?
 ????
 
 == Projektphase/Meilensteine
