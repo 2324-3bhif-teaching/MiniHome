@@ -78,3 +78,29 @@ Das Projekt ist abgeschlossen, wenn alle Meilensteine erreicht sind und die Abna
 * Serverausfall -> schwer wiegend -> backups und redundanz
 * Datenschutzverletzung -> schwer wiegend -> rechtliche Konsequenzen
 
+== Organisation
+.ProjektLeiter: Prof. Aitenbichler
+.Entwickler:
+* Batbold Zolmon.Bat
+* Eliya Gueneiß-Lambournes
+* Alexander Resch
+
+== Abschluss des Projektauftrags
+
+.Alexander Resch:
+* Datum: 13.03.2024
+* Unterschrift: 
++
+image::signs/alexander_resch.png[]
+
+.Eliya Gueneiß-Lambournes:
+* Datum: dd.MM.YYYY
+* Unterschrift:
++
+image::signs/Eliya_Gueneiß-Lambournes.png[]
+
+.Batbold Zolmon.Bat:
+* Datum: dd.MM.YYYY
+* Unterschrift:
++
+image::signs/Batbold_Zolmon.Bat.png[]
