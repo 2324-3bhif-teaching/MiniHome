@@ -79,10 +79,10 @@ Das Projekt ist abgeschlossen, wenn alle Meilensteine erreicht sind und die Abna
 * Datenschutzverletzung -> schwer wiegend -> rechtliche Konsequenzen
 
 == Organisation
-.ProjektLeiter: Prof. Aitenbichler
+.ProjektLeiter: Batbold Tsolmonbat
 .Entwickler:
 * Batbold Zolmon.Bat
-* Eliya Gueneiß-Lambournes
+* Elija Lambourne-Grüneis
 * Alexander Resch
 
 == Abschluss des Projektauftrags
