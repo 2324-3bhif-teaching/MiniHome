@@ -1,0 +1,38 @@
+﻿= Auftrag
+
+== Informationen
+.Bezeichnung:
+* MiniHome-Dashboard
+
+.Auftraggeber:
+* Prof. Aitenbichler
+
+.Ergebnis:
+* Bis Ende des Schuljahres soll das Projekt abgeschlossen sein und ein funktionierendes Dashboard präsentiert werden, welches die vordefinierten Anforderungen erfüllen.
+* Eine übersichtliche, benutzerfreundliche und ansprechende Web-App, die einfach zum Konfigurieren ist.
+
+.Ziel:
+* viele Installationen und eine hohe Zufriedenheit der Benutzer.
+* ein System, dass den Alltag erleichtert und das Haus besser pflegt.  
+
+.Beschreibung:
+Eine Webseite, die live die wichtigsten Daten des Hauses kompakt und übersichtlich, gruppierbar, mit Grafiken darstellt. 
+Durch einer Config-Datei lassen sich, die sensoren und die zu anzeigenden Grafiken, sowie wichtige Benachrichtigungen bei Änderungsbedarf, konfigurieren.
+
+== Meilensteine
+
+[cols="1,4,2,2",options="header"]
+|===
+| Phase | Meilenstein/Ergebniss | Soll-Termin | Freigabe
+| Initialisierung | Pflichtenheft und Auftrag stehen fest | 21.03.2024| 
+| Definitionsphase | Anforderungen und Ziele stehen fest | 21.03.2024|
+| Entwurfsphase | Entwurf der Web-App und der API | 1.04.2024|
+| Server-Setup | Einrichtung des Servers und der Datenbank | 5.04.2024|
+| Implementierungsphase | Web-App und API sind fertig | 1.06.2024|  
+| Testphase | Testen der Web-App und der API | 15.06.2024|
+| Abschlussphase | Präsentation und Abnahme | 19.06.2024|
+|===
+
+== Projektstart
+Das Projekt wird mit dem Abschluss des Pflichtenheftes und allen nötigen Spezifikationen gestartet. Der geplante Zeitpunkt für dieses Ereigniss ist
+
