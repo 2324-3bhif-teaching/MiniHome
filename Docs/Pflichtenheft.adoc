@@ -1,0 +1,23 @@
+= Pflichtenheft
+
+Projektbezeichnung: MiniHome
+Auftraggeber: HTBLA Leonding
+
+== Projekthintergrund
+Das Projekt "MiniHome" zielt darauf ab eine große Breite an bestehenden Sensoren und Microcontrollern in einem Dashboard zu vereinen und ein Wettbewerbsgefühl zwischen den Teilnehmern zu erschaffen (Vegleichen des Stromverbrauchs, ...).
+
+Auslöser des Projekts ist hierbei die Aufgabenstellung seitens Hernn Professor Aitenbichler und Herrn Professor Haslinger.
+
+== Projektendergebnis
+Das Endergebnis des Projekts soll eine eigenständige Einheit sein. Das Dashboard und die Sammlung historischer Sensor Daten soll unabhängig von zentralen Servern laufen können, sollte dies erwünscht sein.
+
+Oberflächlich betrachtet soll das Endergebnis ein Dashboard sein, in welchem man Daten von vom Nutzer gruppierten Sensoren auslesen kann. Hier soll die Möglichkeit dazu bestehen die Sensoren nach Lust und Laune hinzuzufügen und zu entfernen. Auch soll der Nutzer die Möglichkeit dazu haben, selbst programmierte und/oder gebaute sensoren hinzuzufügen (DYI Faktor). Sollte es erwünscht sein kann der Nutzer sich außerdem für eine Rangliste registrieren, bei welcher der Stromverbrauch mit dem von anderen verglichen wird. Bei der Platzierung sollten Alter und Menge der Mitbewohner mit eingerechnet werden um ein faires Ergebnis zu garantieren.
+
+== Projektziele
+Ziel des Projekts soll sein z.B. das Stromsparen spaßig und wettbewerblich zu machen. Auch sollen Abhängigkeiten von Dritten beseitigt werden können, in dem MiniHome, ähnlich wie bei Docker, als selbstständige Einheit exportiert werden kann.
+
+== Projektbeschreibung
+
+????
+
+== Projektphase/Meilensteine
