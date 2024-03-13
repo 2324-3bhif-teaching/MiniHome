@@ -72,12 +72,16 @@ Das Projekt ist abgeschlossen, wenn alle Meilensteine erreicht sind und die Abna
 |===
 
 == Risiken
-* Hardware schwierigkeiten  ->  schwer wiegend -> viel Zeitverlust
-* Änderungen oder Erweiterungen der Anforderungen -> schwer wiegend -> zusätzlicher Aufwand
-* Krankheit eines Entwicklers -> mittel schwer -> umstellen der Aufgaben organisation
-* Serverausfall -> schwer wiegend -> backups und redundanz
-* Datenschutzverletzung -> schwer wiegend -> rechtliche Konsequenzen
 
+[cols="4,3,2",options="header"]
+|===
+| Risiko | Risiko-Bewertung | Konsequenz
+| Hardware schwierigkeiten  |  schwer wiegend | viel Zeitverlust
+| Änderungen oder Erweiterungen der Anforderungen | schwer wiegend | zusätzlicher Aufwand
+| Krankheit eines Entwicklers | mittel schwer | umstellen der Aufgaben organisation
+| Serverausfall | schwer wiegend | backups und redundanz
+| Datenschutzverletzung | schwer wiegend | rechtliche Konsequenzen
+|===
 == Organisation
 .ProjektLeiter: Batbold Tsolmonbat
 .Entwickler:

@@ -13,7 +13,7 @@ Es soll auf einen Blick erkennbar sein, ob alles in Ordnung ist oder ob es Handl
 
 .Vorgedanke
 Es gibt schon vielzählige Lösungen für das Thema SmartHome mit IoT, aber keine, die sich auf das Anzeigen von Informationen spezialisiert hat.
-Die meisten Lösungen bieten auch Steuerungsmöglichkeiten, was für viele Menschen ein zu hohes Sicherheitsrisiko darstellt.
+Die meisten Lösungen bieten jedoch auch Steuerungsmöglichkeiten, was für viele Menschen ein zu hohes Sicherheitsrisiko darstellt.
 
 .Vorteile
 Man könnte sein Haus viel besser organisieren um Energie, Wasser, etc. zu sparen und das Haus besser zu pflegen.
