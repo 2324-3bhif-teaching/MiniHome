@@ -35,4 +35,41 @@ Durch einer Config-Datei lassen sich, die sensoren und die zu anzeigenden Grafik
 
 == Projektstart
 Das Projekt wird mit dem Abschluss des Pflichtenheftes und allen nötigen Spezifikationen gestartet. Der geplante Zeitpunkt für dieses Ereigniss ist
+der 21.03.2024.
 
+== Projektende
+Das Projekt ist abgeschlossen, wenn alle Meilensteine erreicht sind und die Abnahme durch den Auftraggeber erfolgt ist und die Präsentationen gestartet werden. Der geplante Zeitpunkt für dieses Ereigniss ist der 19.06.2024. 
+
+== Ressourcen
+
+[cols="4,3,2,4",options="header"]
+|===
+| Infrastruktur | Menge(Schätzung) | Euro à Einheit | Betrag  
+| Linux-Server | 1 | 10 | 10  
+| Haus | min. 1 | 0 | 0 
+|===
+
+[cols="4,3,2,4",options="header"]
+|===
+| Personal | Menge(Schätzung) | Euro à Einheit | Betrag  
+| Entwickler | 3 | 0 | 0  
+|===
+
+[cols="4,3,2,4",options="header"]
+|===
+| Material | Menge(Schätzung) | Euro à Einheit | Betrag  
+| Linux-Server | 1 | 30 | 30  
+| ESP01-S (WIFI) | 5 | 2,50 | 15  
+| Sensoren | 5 | 5 | 25  
+|===
+
+[cols="4,3,2,4",options="header"]
+|===
+| sonstige Aufwendungen | Menge(Schätzung) | Euro à Einheit | Betrag  
+| Strom | 1 | 10 | 10  
+| Internet | 1 | 10 | 10  
+
+|===
+
+== Risiken
+*
