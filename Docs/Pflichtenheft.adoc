@@ -26,4 +26,9 @@ Wenn der Nutzer sich für ein self-contained deployment auf einem eigenen Server
 Sollte der Nutzer diese Möglichkeit jedoch nicht haben wird sein Dashboard als container auf einem oder mehreren Servern (Sharding) als container gehostet und zur Verfügung gestellt. In diesem Fall entstehen größere Ansammlungen an Daten.
 Durch sharding würden allerdings die Requests so aufgeteilt werden, dass die Last minimal wäre.
 
+== Administratives
+Budgetrahmen: 6€/Monat +
+Abgabetermin: Unbekannt. Vor Notenschluss +
+Team: Tsolmonbat Batbold, Alexander Resch, Elija Lambourne. +
+Eine "Teamleitung" ist nicht vorgesehen und nicht erwünscht.
 
