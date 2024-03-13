@@ -72,4 +72,9 @@ Das Projekt ist abgeschlossen, wenn alle Meilensteine erreicht sind und die Abna
 |===
 
 == Risiken
-*
+* Hardware schwierigkeiten  ->  schwer wiegend -> viel Zeitverlust
+* Änderungen oder Erweiterungen der Anforderungen seitens des Auftraggebers während des Projekts, die zusätzlichen Aufwand erfordern könnten. -> schwer wiegend -> viel Zeitverlust
+* Krankheit eines Entwicklers -> mittel schwer -> umstellen der Aufgaben organisation
+* Serverausfall -> schwer wiegend -> backups und redundanz
+* Datenschutzverletzung -> schwer wiegend -> rechtliche Konsequenzen
+
