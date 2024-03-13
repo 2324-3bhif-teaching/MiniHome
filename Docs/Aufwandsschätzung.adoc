@@ -2,7 +2,7 @@
 
 == Faktoren
 * Unproduktivität
-* Testphase
+* Testphase (akademische "Einmischung")
 * Krankheit
 
 Der geschätzte Aufwand liegt deutlich über 15 Wochen, unter normalen Umständen. Unter der Annahme, dass alle Mitglieder ihre Freizeit dazu nutzen das Projekt weiter zu entwickeln (abgezogen Ausarbeitung anderer Projekte), sollten sich jedoch c.a 90% des Gesamtprojekts zeitlich ausgehen. +
