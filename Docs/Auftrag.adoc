@@ -59,8 +59,8 @@ Das Projekt ist abgeschlossen, wenn alle Meilensteine erreicht sind und die Abna
 |===
 | Material | Menge(Schätzung) | Euro à Einheit | Betrag  
 | Linux-Server | 1 | 30 | 30  
-| ESP01-S (WIFI) | 5 | 2,50 | 15  
-| Sensoren | 5 | 5 | 25  
+| ESP01-S (WIFI) | 5 | 2,00 | 10  
+| Sensoren | 5 | 2 | 10  
 |===
 
 [cols="4,3,2,4",options="header"]
