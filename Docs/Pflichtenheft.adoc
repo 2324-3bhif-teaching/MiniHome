@@ -1,3 +1,4 @@
+
 = Pflichtenheft
 
 === Ausgangslage
@@ -19,6 +20,7 @@ Wichtig für die fairness ist vor allem, dass die Rangliste in mehreren Kategori
 Die Systemanforderungen sind niedrig. Es wird davon ausgegangen, dass ein VPS Server mit 4vCPUs und ~6GB Ram ausreicht.
 Sollte mehr benötigt werden, muss horizontal erweitert werden. Dies wäre durch sharding möglich.
 
+[%hardbreaks]
 == Mengengerüst
 Die projizierten Datenmengen sind stark von dem gewählten deployment Typen abhängig.
 Wenn der Nutzer sich für ein self-contained deployment auf einem eigenen Server entscheidet, beschränkt sich die Menge an Daten die verarbeitet werden müseen rein auf die Nutzung des Individuums.
