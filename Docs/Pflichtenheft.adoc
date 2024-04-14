@@ -29,7 +29,7 @@ Durch sharding würden allerdings die Requests so aufgeteilt werden, dass die La
 
 Man kann aber folgendes schätzen:\\
 1 Datensatz (z.B Raumtemperatur) -> bis zu 360 Bytes\\
-
+[%hardbreaks]
 Bei 1 Datensatz:\\
 Unter Annahme von Abfragen alle 15min -> 34500 Bytes (34.5KB) am Tag\\
 Pro Monat -> 1.035MB\\
