@@ -24,16 +24,16 @@ Die projizierten Datenmengen sind stark von dem gewählten deployment Typen abh�
 Wenn der Nutzer sich für ein self-contained deployment auf einem eigenen Server entscheidet, beschränkt sich die Menge an Daten die verarbeitet werden müseen rein auf die Nutzung des Individuums.
 Sollte der Nutzer diese Möglichkeit jedoch nicht haben wird sein Dashboard als container auf einem oder mehreren Servern (Sharding) als container gehostet und zur Verfügung gestellt. In diesem Fall entstehen größere Ansammlungen an Daten.
 Durch sharding würden allerdings die Requests so aufgeteilt werden, dass die Last minimal wäre.
-++
++
 Man kann aber folgendes schätzen: +
 1 Datensatz (z.B Raumtemperatur) -> bis zu 360 Bytes +
-++
++
 Bei 1 Datensatz: +
 Unter Annahme von Abfragen alle 15min -> 34500 Bytes (34.5KB) am Tag +
 Pro Monat -> 1.035MB +
 Pro Jahr -> 12.45MB +
 Zeit bis 1GB -> ~82.2 Jahre +
-++
++
 Bei 10 Datensätzen: +
 Pro Tag -> 345KB +
 Pro Monat -> 10.35MB +
