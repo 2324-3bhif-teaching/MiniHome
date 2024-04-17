@@ -15,7 +15,7 @@
 | Zeit | Issue | Person | Tätigkeit | Date
 |4,5 h |Planung/Dokumentation| Alex |Antrag & Auftrag|12.03
 |1,75 h |Planung/Dokumentation| Elija |Pflichtenheft & Recherché|12.03
-|2,25 h |Planung/Dokumentation| Batbold |Mock-up|12.03
-|1h| - |Tsolmonbat | Issues erstellen | 17.04
+|2,25 h |Planung/Dokumentation| Tsolmonbat Batbold |Mock-up|12.03
+|1h| kein Issue vorhanden |Tsolmonbat Batbold | Issues erstellen | 17.04
 ||||Dokumentation|13.03|
 |===
