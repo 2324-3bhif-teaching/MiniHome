@@ -7,4 +7,14 @@
 |13.03 | 6:54 - 7:14, 11:30 - 15:30 | Auftrag & Recherché |11:00 - 13:35| Pflichtenheft & Recherché| 11:00 - 13:35 | Recherché
 |16.03| 11:30 - 11:50 | Hardware Recherche/ Analyse  ||||
 |17.04|||||11:50 - 12:45 | Issues erstellen
+|10.04|  | | | | |
+|===
+
+[cols="2,4,3,4,1",options="header"]
+|===
+| Zeit | Issue | Person | Tätigkeit | Date
+|4,5 h |Planung/Dokumentation| Alex |Antrag & Auftrag|12.03
+|1,75 h |Planung/Dokumentation| Elija |Pflichtenheft & Recherché|12.03
+|2,25 h |Planung/Dokumentation| Batbold |Mock-up|12.03
+||||Dokumentation|13.03|
 |===
